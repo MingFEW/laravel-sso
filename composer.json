@@ -1,5 +1,5 @@
 {
-    "name": "MingFEW/laravel-sso",
+    "name": "mingfew/laravel-sso",
     "description": "Simple PHP SSO integration for Laravel",
     "keywords": ["laravel", "sso", "authentication", "login"],
     "homepage": "https://github.com/mi-lopez/laravel-sso",
